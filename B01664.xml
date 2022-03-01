@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Bishop of St. David's case</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01664</idno>
+            <idno type="STC">Wing B3024</idno>
+            <idno type="STC">ESTC R170667</idno>
+            <idno type="EEBO-CITATION">52211889</idno>
+            <idno type="OCLC">ocm 52211889</idno>
+            <idno type="VID">175436</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01664)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175436)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2736:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Bishop of St. David's case</title>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1699?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Bishop of St. David's = Thomas Watson, who would be removed from office in 1702 based on the accusations discussed in this document.</note>
+                  <note>Blank leaf between pages 1 and 2.</note>
+                  <note>Reproduction of the original in the Lincoln's Inn Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Watson, Thomas, 1637-1717 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Simony --  Early works to 1800.</term>
+               <term>Bishops --  Wales --  17th century --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:175436:1"/>
+            <head>The Biſhop of <hi>St. David's</hi> CASE.</head>
+            <p>THE <hi>Biſhop</hi> having bin libel'd againſt before the <hi>Archbiſhop</hi> of <hi>Canterbu<g ref="char:EOLhyphen"/>ry,</hi> for matters of an heinous nature, ſupported with great Clamours; thought it for his reputation not to inſiſt upon his <hi>Privilege of Peerage,</hi> to prevent any Proofs which could be made in the Cauſe.</p>
+            <p>But ſince the <hi>Archbiſhop</hi> has given Sentence, not only without ſufficient proof of the pretended grounds, but a Sentence of <hi>Deprivation;</hi> which no <hi>Archbiſhop</hi> before him ever pronounced, <hi>of his ſole Authority, againſt a Biſhop;</hi> 'tis humbly ſubmitted to the conſideration of the <hi>Lords Spiritual and Temporal in Parliament,</hi> whether a waving Privilege can amount to a ſubmiſſion to the being <hi>diveſted of Peerage:</hi> and whether, however, that would give a new Juriſdiction over any Lord of Parliament, in prejudice of the <hi>Right of the Houſe of Lords.</hi>
+            </p>
+            <p>This the <hi>Biſhop</hi> humbly hopes may induce <hi>their Lordſhips</hi> to examin the Cir<g ref="char:EOLhyphen"/>cumſtances of his Caſe, which he chearfully ſubmits to ſuch <hi>equal</hi> and <hi>proper Judges.</hi>
+            </p>
+            <p>
+               <hi>Robert Lucy,</hi> an avowed Enemy to the <hi>Biſhop,</hi> having caus'd many ſcandalous Reports to be rais'd of him, and by indirect Practices prevail'd upon ſome to ſwear againſt him, and kept others from witneſſing the Truth; dreſs'd up a Libel with many Articles, which fall under theſe Heads.</p>
+            <p n="1">1. Simony. 2. Extortion. 3. Falſification. 4. Miſapplying the Revenue of the Church. 5. Breach of a Canon in the manner of exerciſing Eccleſiaſtical Juriſdiction. 6. Diſaffection to the preſent Government.</p>
+            <p>But the Sentence is only upon the 3 firſt Heads, the <hi>Archbiſhop,</hi> it ſeems, being ſatisfied, that the others were added only to increaſe the Load; or elſe as he was reſtrain'd by prohibition.</p>
+            <p n="1">1. The firſt ſuppos'd Inſtance of <hi>Simony</hi> was, in relation to the preferring his <hi>Nephew</hi> Mr. <hi>John Medley,</hi> to ſeveral Places in the Church; taking a Bond of him in the Penalty of 200 <hi>l.</hi> for the Payment of 100 <hi>l.</hi> after he was collated to the <hi>Archdeaconry of St.</hi> David<hi>'s;</hi> and, for ſome time, receiving Rents of that and other of Mr. <hi>Medley</hi>'s Preferments.</p>
+            <p>But that 100 <hi>l.</hi> was plainly prov'd to be part of 500 <hi>l.</hi> which the <hi>Biſhop</hi> ad<g ref="char:EOLhyphen"/>vanced for the Marriage Portion of Mr. <hi>Medley</hi>'s Siſter, of which the <hi>Biſhop freely gave</hi> 400 <hi>l.</hi> and her Brother undertook to give 100 <hi>l.</hi>
+            </p>
+            <p>And ſuch Profits belonging to Mr. <hi>Medley</hi> as the <hi>Biſhop</hi> received, were only till he was reimburs'd the Mony he had laid out upon Mr. <hi>Medley</hi>'s account: and tho the Biſhop had ſome of the Places in <hi>commendam,</hi> by virtue of a Faculty to retain'em, yet he let Mr. <hi>Medley</hi> have all the Profits from the beginning of the <hi>Biſhop's</hi> holding them in his own right.</p>
+            <p>Certainly it ought not to be believ'd on ſlight grounds, that the <hi>Biſhop,</hi> who had given ſuch proofs of his Affection to his Nephew and his Siſters; who had not the leaſt Objection againſt him for the diſpoling Church Preferments to any other Perſon; and had given Demonſtrations of his generous regard to Merit in Strangers, and the greateſt abhorrence of corrupt Bargains; ſhould ſeek his own Profit in advancing <hi>his Nephew,</hi> agreed to be a Perſon very deſerving. And how apt ſoever Men may be to think hardly of the <hi>Biſhop;</hi> his Nephew was prov'd to be a Perſon of a ſtrict Life and Converſation, and very charitable; no way ambitious of Preferment; and one that would have abhorred it upon <hi>Simoniacal Terms.</hi>
+            </p>
+            <p>Another ſuppos'd Inſtance of <hi>Simony</hi> was his taking a Sum of Mony, for the Leaſe to a <hi>reputed Clergyman,</hi> of a <hi>Rectory</hi> which the Biſhop held in <hi>commendam.</hi> This of it ſelf could be no more <hi>Simony,</hi> than letting out Tythes to a <hi>known Lay-man,</hi> for a Sum in hand; but the aggravation was thought to lie in the <hi>Biſhop</hi>'s promiſing under his hand to reſign the <hi>Rectory,</hi> when deſired by his <hi>Leſſee.</hi> For which there was not the leaſt Footſtep of any prior Agreement, and the Promiſe was freely made by the <hi>Biſhop,</hi> after he had receiv'd his Mony for the Leaſe.</p>
+            <pb facs="tcp:175436:2"/>
+            <p n="2">
+               <pb n="2" facs="tcp:175436:2"/> 2. As to the imputation of <hi>Extortion;</hi> whether the Fees taken by him and his Officers, were more than were allowable by the <hi>Cuſtom</hi> of the <hi>Dioceſs,</hi> ſeems a matter properly triable at <hi>Common Law:</hi> beſides, 'twas fully proved, that he and his Officers did not in any particular take more than was uſual, and really took leſs than his <hi>Proſecutor</hi> Mr. <hi>Lucy,</hi> and his Father, and <hi>ſucceeding Biſhops of that Dioceſs</hi> did in like caſes.</p>
+            <p n="3">3. The <hi>falſification,</hi> or <hi>crimen falſi,</hi> laid to his Charge was as if he had ordained Perſons without requiring the appointed Oaths and Subſcription; and yet had in this matter certiſied under his <hi>Epiſcopal Seal,</hi> contrary to the truth.</p>
+            <p>Of the pretended <hi>abuſe</hi> of the <hi>Seal</hi> no proof was offer'd, and only one wit<g ref="char:EOLhyphen"/>neſs depoſed poſitively, about the imputed Omiſſions at an Ordination.</p>
+            <p>But, beſides that a ſingle Witneſs is not enough to ſix ſuch a Charge upon a <hi>Biſhop;</hi> that <hi>Witneſs</hi> was upon ſeveral Accounts prov'd <hi>incompetent.</hi>
+            </p>
+            <p>However, the <hi>Archbiſhop,</hi> ſuppoſing theſe matters to have been ſufficiently prov'd,<note place="margin">Tho. Arch. Judex ante<g ref="char:EOLhyphen"/>dictus.</note> pronounced Sentence of <hi>Deprivation,</hi> for thoſe Cauſes: and this he did by his <hi>ſingle Authority,</hi> as the only <hi>Judg,</hi> tho with the Aſſiſtance of <hi>ſome Biſhops;</hi> who were not all ſatisfied with it.</p>
+            <p>This ſome imagin that the <hi>Archbiſhop</hi> may do, as ſucceeding the <hi>Pope</hi> in <hi>Spiri<g ref="char:EOLhyphen"/>tual Authority:</hi> whereas that is allowed him by ſpecial Act of Parliament, only for <hi>Diſpenſations,</hi>
+               <note place="margin">25 <hi>H.</hi> 8. c. 21.</note> and they much limited: but the <hi>Pope</hi> himſelf never judg'd O<g ref="char:EOLhyphen"/>riginally in ſuch Cauſes, as that in queſtion, ariſing here; otherwiſe than as he, by his <hi>Legats,</hi> preſided in <hi>Councils.</hi>
+            </p>
+            <p>The <hi>Iſt Statute</hi> which takes away <hi>Appeals to the Pope,</hi>
+               <note place="margin">24 <hi>H.</hi> 8. c. 12.</note> expreſly provides, That the <hi>Spiritual Cauſes</hi> there mention'd, ſhall be <hi>examin'd, adjudg'd,</hi> and <hi>determined, in ſuch Courts Spiritual and Temporal, as the Natures, Conditions, and Qualities of the Caſes and Matters ſhall require.</hi>
+            </p>
+            <p>And if by the Law and Uſage of the Kingdom, all Deprivations of Biſhops (except ſuch as were by Act of Parliament, or Commiſſioners ſo authoriz'd) were to be by judgment of the <hi>Lords Spiritual</hi> and <hi>Temporal</hi> in <hi>Councils;</hi> the <hi>Houſe of Lords</hi> muſt neceſſarily be <hi>the Court,</hi> which is to <hi>examine, adjudg,</hi> and <hi>determine,</hi> concerning the <hi>Biſhop's</hi> Caſe.</p>
+            <p>'Tis evident,<note place="margin">25 <hi>H.</hi> 8. c. 19.</note> that neither the Statute 24 <hi>H.</hi> 8. nor the Statute 25 <hi>H.</hi> 8. (which provides for Appeals in Caſes not mention'd in the former) makes any proviſion concerning Appeals, in Caſes which belong to none but the <hi>Lords</hi> in <hi>Parliament.</hi>
+            </p>
+            <p>If the <hi>archbiſhop</hi> judg in a Cauſe which belongs to them, it's abſurd to urge that by thoſe <hi>Statutes</hi> there can be no Appeals but to <hi>Delegates;</hi> ſince a Peti<g ref="char:EOLhyphen"/>tion to the <hi>Lords</hi> in this matter comes not by way of <hi>Appeal,</hi> but Complaint of the <hi>Archbiſhop</hi>'s uſurping upon their Juriſdiction.</p>
+            <p>The only queſtion now is, whether the <hi>Biſhop's</hi> waving Privilege, and appeal<g ref="char:EOLhyphen"/>ing to the <hi>Delegates,</hi> ſhall prejudice him.</p>
+            <p>to which the anſwer is plain, That <hi>it ſhall not ouſt the Lords of their Juriſ<g ref="char:EOLhyphen"/>diction.</hi> Becaſe of their Intereſt in their fellow Peers; 'twas re<g ref="char:EOLhyphen"/>ſolv'd, in the Caſe of Lord <hi>Gray</hi> of <hi>Ruthin,</hi>
+               <note place="margin">Journal of the Houſe of Lords, <hi>Feb. 10.</hi> An. <hi>1640.</hi>
+               </note> and afterwards repeated in another Caſe, That <hi>'tis not in the power of a Peer, to drown, or extinguiſh his Honour, by Surrender, Grant, Fine, or any other Conveyance to the King.</hi>
+            </p>
+            <p>And fully to remove the Objection here; 'tis provided by Act of Parliament, That <hi>if any of the Peers of his own accord will anſwer, and be adjudged, eiſewhere than before the Peers in Parliament;</hi>
+               <note place="margin">Rot. Parl. 15. E. 3. n. 7.</note> 
+               <hi>this ſhall not turn to the prejudice of other Peers, or of himſelf in any other Caſe.</hi>
+            </p>
+            <p>To which may be added, That whatever Precedents there have been for trying Biſhops in Capital Caſes, by common Juries, becauſe by reaſon of the Canons receiv'd here, they are not to judg of Temporal Peers in ſuch Caſes; yet this being a Caſe wherein a Biſhop was never judg'd but in a <hi>Council,</hi> and the mat<g ref="char:EOLhyphen"/>ter being ſuch as infers a forfeiture of his Barony,<note place="margin">Vid. 25 E. 3. c. 6.</note> which is a <hi>Temporalty;</hi> we may here apply the declaration of the <hi>Lords Spiritual and Temporal</hi> in the Parl. 11 <hi>R.</hi> 2. upon the criminal Appeals then brought; and may conclude that the matter is to be judg'd only in Parliament, <hi>Et ne per auter ley que ley et cours de Parl,</hi>
+               <note place="margin">Rot. Parl. 11 B. 2.</note> 
+               <hi>et qil appertient as ſurs du Parl. eſtre Iuges en tiel caſe.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
